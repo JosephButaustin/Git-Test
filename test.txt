@@ -1,3 +1,6 @@
 pizza
 chicken
 rice
+avengers
+spiderman
+avatar
